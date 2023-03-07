@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentV2</string>
+    <string name="tab_text_1">Form</string>
+    <string name="tab_text_2">Tampil</string>
+</resources>
